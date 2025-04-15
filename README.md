@@ -1,12 +1,24 @@
-# React + Vite
+# 🚀 Exoape.com Clone – Modern Creative Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive and animated clone of [Exoape.com](https://exoape.com), built using modern frontend technologies and smooth animation libraries.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React 19** – Built the UI using modern component-based architecture  
+- **Tailwind CSS 4** – Used for fast, utility-first styling  
+- **GSAP** – Added smooth and interactive animations  
+- **Framer Motion** – Implemented page transitions and motion effects  
+- **Locomotive Scroll** – Integrated smooth scrolling and scroll-based animations  
+- **React Icons** – Used for elegant and consistent icons  
+- **Vite** – Fast build tool for blazing development experience
 
-## Expanding the ESLint configuration
+## 🎯 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Smooth animations like the original website  
+- 📱 Fully responsive across devices  
+- 🎨 Clean and modern UI/UX  
+- 🎥 Scroll-triggered animations  
+- 🧩 Attention to detail in layout and motion
+
+## By PRIYANSHU KUMARI
+
